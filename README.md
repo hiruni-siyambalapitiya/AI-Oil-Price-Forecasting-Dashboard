@@ -47,7 +47,7 @@ The system combines machine learning, data visualization, and an interactive das
   ## Installation
 
 ```bash
-git clone https://github.com/yourusername/AI-Oil-Price-Forecasting-Dashboard.git
+git clone https://github.com/hiruni-siyambalapitiya/AI-Oil-Price-Forecasting-Dashboard.git
 
 cd AI-Oil-Price-Forecasting-Dashboard
 
